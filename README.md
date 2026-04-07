@@ -19,19 +19,25 @@ The following **required** functionality is completed:
  
 The following **optional** features are implemented:
 
-- [ ] Users can pull to refresh their feed and see a loading indicator
-- [ ] Users can infinite-scroll in their feed to see past the 10 most recent photos
+- [x] Users can pull to refresh their feed and see a loading indicator
+- [x] Users can infinite-scroll in their feed to see past the 10 most recent photos
 - [ ] Users can see location and time of photo upload in the feed	
 - [x] User stays logged in when app is closed and open again	
 
 
 The following **additional** features are implemented:
 
-- [ ] List anything else that you can get done to improve the app functionality!
+- [x] You can see time of post not location
 
 ## Video Walkthrough
 
-
+<div>
+    <a href="https://www.loom.com/share/85d6bf0bc0ac4a388d2244aea92a99ec">
+    </a>
+    <a href="https://www.loom.com/share/85d6bf0bc0ac4a388d2244aea92a99ec">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/85d6bf0bc0ac4a388d2244aea92a99ec-2c8863e8eb5ace13-full-play.gif#t=0.1">
+    </a>
+  </div>
 
 Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
 
@@ -39,7 +45,7 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Couldn't get the pictures to work at first but then i realized i hadn't added the Privacy thing to the info correctly. I also becausse the original stuff was in playground i had issues remaking a similar UI but I came to like the UI i chose more than the example we got. 
 
 ## License
 
